@@ -1,0 +1,12 @@
+Whitegram IPA audit
+===================
+IPA: telegram(1).ipa
+Bundle ID: ph.telegra.Telegraph4
+Display name: Whitegram
+Version: 12.8 (55)
+Framework SHA-256: b13c18355a1b3ef8c0b3c4e080965c2469150c5d0699ca19724dd33c5356d06f
+Expected extracted strings: 698
+Found in this IPA: 698
+Build match: 100.00%
+Found but untranslated: 0
+

@@ -1,0 +1,698 @@
+%d account(s) saved to Keychain
+%d messages will be restored and visible in the chat again.
+%d of %d engines
+). Back camera only.
+150%). Restart required.
+16 threads
+4 threads
+8 threads
+A password will be required to open "%@"
+About Whitegram
+Above Everything
+Account
+Account "%@" is already added.
+Account Order
+Account Sessions
+Account Switcher
+Account Switcher Circles
+Account Switcher in Header
+Accounts in Keychain
+Action Time
+Add
+adds a thin frame around each message.
+adds technical data to profiles.
+adds them to the icon picker.
+AI assistant with functions
+AI Provider
+All Settings
+All Telegram proxies will be removed and auto-connect will be disabled. The app will connect directly to Telegram.
+Allows you to hide unwanted sections from Telegram settings. At least one core section must remain visible.
+Always HD
+Always Online
+Always Send in HD
+always shows the translate button regardless of language.
+Analytics
+Analyzing
+and open a .ttf/.otf file directly from the Files app. The font applies after a restart.
+API
+API Key
+App logs
+Appearance
+Apply
+Apply in Profile
+Author
+Auto Formatting
+Auto send recordings as view-once
+Auto Text Formatting
+Autumn
+Avatar Blur in Profile
+Avatar Blur on Zoom
+Back
+Back Camera
+Badge Black
+Badge Color
+Badge White
+Badges
+Bass Boost
+Behind Messages
+Beige
+Black
+Black Tea
+Blizzard
+Blue
+Blur Bubbles
+Blur in Profile
+Blur instead of Liquid Glass
+Blur Messages
+Blur on Zoom
+Blur Tint
+Bold
+Border
+Bot Button Callback
+Bot Deleted
+Bot Edits
+Brick
+Building file
+button copies the full report to the clipboard.
+Button Effect
+Bypass Protected Content
+Call
+Call Warning
+Calls Tab
+Camera
+Camera Control
+Camera for Video Circles
+Cancel
+Change Pitch
+changes photo shapes.
+Channel Ads
+Channel Posts Feed
+Char Count in Messages
+Char Count While Typing
+Chat History
+Chat/Channel Creation Date
+Chats Label
+Chats where "Save History" is enabled.
+Chats with saved messages
+Check links and files
+Checking
+Checking connection...
+Choose a built-in Whitegram language. Changes apply immediately.
+Choose Lock Type
+Choose number of digits
+Choose the default camera for video circles.
+Choose up to 3 reactions people can leave on your profile
+Classical
+Clean Metadata
+Clear Deleted Messages Cache
+Clear Edited Messages Cache
+Clear History
+Clear Online History
+Clear Saved Chat History
+Clear Treble
+Click Sound
+Code
+Coffee
+Compact Chat List
+Compact List
+Configure Equalizer
+Confirm
+Confirm video call?
+Confirm voice call?
+Connection active
+Connection Problems?
+Contacts Online History
+Contacts Tab
+Continue
+Copy Bot Button Callback Data
+Copy Diagnostics
+Copyright belongs to him.
+Counter in Chat
+Counter While Typing
+Cover Blur
+Creation Date
+Crossfade
+Crossfade and equalizer
+Crypto Bot
+Crystal
+Custom Font
+Custom Settings Icons
+Custom UI font
+Custom Value
+Data Center
+Deferred Send
+Deferred Send (12 sec)
+Delete
+Delete plugin?
+Delete the whole conversation?
+Deleted Cache
+Deleted Message Opacity
+Deleted Messages
+Deleted messages stay semi-transparent in chat with a
+Demons
+Dense
+Developer
+Developer heypain
+Device
+Device Language
+Device Microphone
+Device Name
+Disable Channel Ads
+Disable Chat Swipe Options
+Disable Ghost Mode
+Disk
+Displays a custom star count in your profile. Visual effect only
+Don't Play Next Voice
+Don't Switch Between Channels
+Done
+Done: %d messages
+Double Tap to Edit
+Download Acceleration
+Download Speed
+Download tracks to vantrax
+Downloading %d%%
+Duration (sec)
+Dynamic Island Badge Color
+Each option is independent.
+Edited Cache
+ElevenLabs
+ElevenLabs API Key
+Enable Custom Font
+Enable Gemini AI
+Enable Ghost Mode
+Enable hidden story views before opening?
+Enable Notifications
+Enable Profile Wall
+Enable VirusTotal
+Enable Voice Changer
+Enable Whitegram AI
+Enabled
+English
+English interface
+Enhanced Traffic
+Enhanced traffic encryption
+Enter a number from 1 to 1000.
+Enter a track name
+Enter password to access
+Enter the recovery word to remove the password for "%@"
+Enter the recovery word to reset the password
+Enter your recovery word to confirm the password change.
+Equalizer
+erases edit history.
+Error
+Everest
+Expand Message
+Export cancelled
+Export Deleted DB
+Export Deleted Messages DB
+Export Settings to JSON
+Exporting chat
+Extras
+Failed to generate subtitles. Make sure the video is downloaded and the selected language is supported.
+Failed to load lyrics
+Failed to Open Font
+Failed to Save Font
+Fake Location
+FAQ
+Fast
+Favorites Button in Message Menu
+Favorites in Menu
+File may not be a Whitegram plugin
+Fisheye Effect for Buttons
+Folders at Bottom
+Font
+Font changed: %@. Restart Whitegram
+Font preview
+Font selected: %@. Restart Whitegram
+Fonts
+Fonts Imported
+Formatting Toolbar
+Formatting Toolbar Above Keyboard
+Forward Anonymously
+Frame Rate
+Front
+Front Camera
+Full list
+Full View Count
+Full Views
+Gallery Camera
+Gemini
+Gemini API Key
+Gemini Model
+Gemini Request Routing
+Ghost
+Ghost Mode
+Gifts
+Glass Settings List
+Glass Tinting
+Google
+Google Gemini API Key
+Google Translate
+Gray
+Great Wall
+Grid
+Groq
+Groq API Key
+Groq Model
+Groq Request Routing
+Hi! I am Whitegram AI powered by Google Gemini.
+Hi! I am Whitegram AI powered by Groq (%@).
+Hide Account Rating
+Hide Appearance
+Hide Bot Deleted Messages
+Hide Bot Edited Messages
+Hide Bottom Tab Bar
+Hide Business
+Hide Calls Tab
+Hide Camera in Gallery
+Hide Chats Label
+Hide Contacts Tab
+Hide Data & Storage
+Hide Descriptions
+Hide Devices
+Hide Energy Saving
+Hide FAQ
+Hide Favorites
+Hide Feature Descriptions
+Hide Folders
+Hide Gifts
+Hide Language
+Hide My Deleted Messages
+Hide My Edited Messages
+Hide My Profile
+Hide My Stars
+Hide Notifications
+Hide Online Status
+Hide Phone Number
+Hide Premium Badge in Header
+Hide Privacy
+Hide Proxy
+Hide Reactions
+Hide Read Receipts
+Hide Recent Calls
+Hide Record Button
+Hide Recording Status
+Hide Search Button (magnifier)
+Hide Send Gift
+Hide Settings Sections
+Hide Sponsored Channel
+Hide Stories
+Hide Story Views
+Hide Support
+Hide Tab Labels
+Hide Telegram Premium
+Hide Tips
+Hide Typing Status
+Hide Upload Status
+Hide voice/video record button
+Hide Wallet
+hides sponsored messages.
+hides the background
+Hides unwanted tabs from the bottom navigation bar.
+High
+History is available only for
+History is recorded only while the app is open
+How can I help? I can read chats, send messages, manage your profile, and more.
+How many messages to send?
+Hybrid
+icon next to the timestamp indicates an edit.
+icon. Deleting again removes them permanently.
+ID & DC
+ID & DC in Profile
+If both of you are mutual contacts
+If you forget your password, you can reset it using this word
+Import .ttf, .otf, or .zip archives with font files. Zip imports can include font families, so formatting variants stay visible.
+Import Deleted DB
+Import Deleted Messages DB
+Import Settings from JSON
+In-App Vibration
+increases parallel downloads to 16.
+Info Display
+Install
+Install Anyway
+Install Plugin
+Interface Language
+Interval Between Messages
+Italic
+Jazz
+JPEG Photo Quality
+JPEG Quality
+JS plugins extend Whitegram without rebuilding. Plugins run in an isolated JavaScriptCore environment.
+JSON
+Keychain
+Language
+Large Photos (2560px)
+Last Camera
+Last Online
+Liquid Glass
+Liquid Glass Buttons
+Liquid Glass Gifts
+Liquid Glass Gifts in Profile
+Liquid Glass Inline Buttons
+Liquid Glass Messages
+Loading
+Local Balance
+Local Notifications
+Local Premium
+Local Premium (removes restrictions)
+Local Premium is active
+Local Stars
+Local Stars Balance
+Low
+makes the background 70% visible.
+Manage Plugins
+Map
+marks messages as read when any interaction with a contact occurs.
+May significantly increase battery usage because Whitegram will stay in the background until you close it manually.
+Medium
+menu in a contact's profile.
+Menu Sections
+Message "%@" right now!
+Message Border
+Message Cache
+Message Style
+Messages
+messages edited after
+Metadata found
+Metadata missing
+Minimal Blur
+Minimum 3 characters
+Model
+Monospace
+More
+Music Card Style
+My Deleted
+My Edited
+My Fonts
+Navigation Tabs
+Network error: %@
+Neutral
+New Chat Header Style
+New Chat List UI
+New Chat List UI (Cards)
+New York
+Night City
+No Channel Switch
+No compatible fonts found
+No description provided.
+No fonts yet
+No installed plugins
+No matching tracks found
+No mutual reply today yet.
+No response from the model.
+No saved chats
+Noir
+Not Selected
+Not selected
+not selected
+Not Set
+not set
+Nothing found
+Notifications
+Nova
+Objects found: %d
+Off
+Off (6 threads)
+Offline
+Offline star prices
+OLED Mode
+Online
+Online History
+Online History (track statuses)
+Online Status
+only text is visible.
+Open in Whitegram
+Openlock VPN
+Original Edited Messages
+Original Edits
+Original Telegram Icons
+Panel Height
+Panel Width
+Paris
+Particle Density
+Particle Effect
+Particle Mode
+Particle Speed
+Password Settings
+Patterns don't match
+Persistent Notifications
+Personal Profile Color
+Phone Number
+Photos provided by Telegram user @GunmeN_NemnuG.
+Pink
+Pinned Chats
+PINs don't match
+Playback Speed
+Player
+Player Effect
+Plugin Installed
+Plugins
+Plugins can be written in Python (.plugin, .wgplugin) or JavaScript (.js).
+Pop
+Possibly not a plugin
+Precise Status Display
+Premium Badge in Header
+Presets
+Privacy
+Profile Color
+Profile Wallpaper
+Protected Content
+Proxy Auto Connect
+Quality
+RAM (app)
+Reactions
+Reactions List
+Read Dates
+Read on Action
+Read Receipts
+Reading history
+real balance is unchanged.
+Rear
+Record as View-Once
+Record circles with ultra-wide lens (0.5
+Recording Bitrate
+Recording Status
+Red
+Reduce Blur to Minimum
+reduces avatars and padding.
+Registration Date
+Remember Last Camera
+Remember this PIN
+remembers approximate activity time even when the status is hidden.
+Remove All Spoilers
+Remove Spoilers
+removes text under icons.
+removes text under profile buttons.
+removes the number from your profile.
+removes view markers.
+Reorder Accounts
+replaces bubble backgrounds with blur. Options are mutually exclusive.
+Reply to each other today
+Reset
+Reset Profile Wallpaper
+Reset Video Wallpaper
+resets deletion markers (messages saved via
+Restore
+Restore %d account(s)?
+Restore Chat
+Restore Chats
+restore chats via the
+Restore Saved Chats
+Restore Settings from Keychain
+Restored %d messages (%d new).
+Restored %d msg. from backup.
+Restored %d settings. Restart Whitegram
+Restored accounts: %d
+Revert to Original
+Rock
+Round Profile Buttons
+Runtime
+Russian
+Russian interface
+Sakura
+Satellite
+Save
+Save Chat History
+Save Deleted Messages to DB
+Save Deleted to DB
+Save Last Online
+Save Read Dates
+Save Settings to Keychain
+Save to Favorites
+Save View-Once Media to Gallery
+Saved Chats
+Saved History
+Saves authorization keys in iOS Keychain. After reinstallation, tap
+saves deleted messages to a local database
+saves locally when a message was read.
+scales stickers in chat (10
+scales the bar (50
+Scammer Protection
+Scout
+Search Button
+Searching Genius...
+Seconds
+Seconds. 0 = send consecutively without delay.
+Select Font File
+Select from Author
+Select Line
+Select on Map
+Select Song Lyric
+Select Voice
+Selected
+Semi-transparent
+Semi-transparent Messages (
+Semi-transparent on Mention
+Send Acceleration
+Send as Video Message
+Send Large Photos (2560px)
+Server error
+Sessions
+Shadow
+Shorten
+Shorten Button in Menu
+Shorten in Menu
+Show Deleted Messages
+Show ID and DC in Profile
+Show Posts Tab
+Show RAM Usage Under Clock
+Show Registration Date
+Show Seconds in Timestamp
+Show Time on Actions
+Show Wallpaper to Everyone
+Showing lyrics for %@
+shows a blurred background when zooming in on an avatar.
+shows exact timestamps.
+shows formatting buttons above the keyboard.
+Shows the current system state. The
+shows the real number (1,234 instead of 1K).
+shows when a channel/group was founded.
+Simplified Player
+Siri/Dictation Warning
+Sky
+Slow
+Snow
+Song Lyric in Profile
+Sparse
+Speech Recognition.
+Spoiler
+Spy
+Square Avatars
+Star Count
+Static Zoom
+Static Zoom While Recording
+Sticker Size
+Stories
+Story Views
+Streak with Contact
+Strike
+Strikethrough
+Submitting
+Subtitles Error
+Subtitles unavailable: allow speech recognition in Settings
+Swipe Options
+Synced lyrics
+Syntax check skipped
+Syntax error
+Syntax looks correct
+Syntax OK
+Tab Labels
+Tabs
+Tap
+Tap + to add a .plugin, .wgplugin or .js file
+Tap + to import a font or a zip archive.
+Tap + to install.
+Tap a chat to restore all messages.
+Tap the map to pick a point
+Tap to Enter
+Telegram Icons
+Telegram Stars
+Terrain
+The original text is shown crossed-out below the message. The
+This file doesn't look like a Whitegram plugin. Install anyway?
+This milestone has already been reached
+Timestamp Seconds
+Tint
+to log in without re-authorizing.
+Total messages: %d
+Track Cover Blur in Player
+Track or artist
+Transcription uses Siri and may send data to Apple servers.
+Translate
+Translate Always Visible
+Translate Before Sending
+Translate Button Always Visible
+Translate text from the send menu
+Translation
+Translation Language
+Transparent
+Transparent Messages
+True black on dark theme
+Typing Status
+Ukrainian
+Ukrainian interface
+Unavailable until the current milestone is completed
+Unclosed brackets or quotes
+Unlimited Favorite Stickers
+Unlimited Pinned Chats
+Unlimited Stickers
+unlocks forwarding, screenshots, and saving media from protected channels; view-once content stays; removes blur from paid media.
+Up to 4 lines
+Update
+Update Plugin
+Upload Status
+Use
+Use Device Microphone
+Use Proxy
+User with ID %lld will be able to see your wall again.
+Username
+uses the profile color as background.
+Uses Whitegram API
+Version
+Vibration
+Video Call
+Video Chat Background
+Video Circles
+View History
+View Online History
+View Source
+Violet
+VirusTotal
+VirusTotal API Key
+Visual Edit
+Visual Username
+Voice Changer
+Voice to use
+Voice Translation
+Voice via ElevenLabs AI
+VPN by the Whitegram developer. Provides open internet access with ad and telemetry blocking. Bypasses throttling and Russian ISP whitelists.
+Wall Blocked Users
+Wallpaper add error: code %d
+Wallpaper was added successfully
+Warn about Siri on transcription
+Warn Before Call
+warns in profiles from the Whitegram scammer database.
+Wave
+were not found for this track
+White
+WHITEGRAM
+Whitegram
+Whitegram AI
+Whitegram API not used
+Whitegram API returned no results yet
+Whitegram Channel
+Whitegram Developer
+Whitegram Events
+Whitegram Features
+Whitegram Local Notifications
+WHITEGRAM MESSAGE EXPORT
+Whitegram profile features
+Whitegram was installed
+Wide Channel Posts
+Will apply after restarting Whitegram.
+will be permanently deleted.
+With Translation
+Wrong recovery word
+Yellow
+Zalgo Filter
+Zalgo Filter (remove text distortion)
